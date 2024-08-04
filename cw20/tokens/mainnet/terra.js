@@ -1963,5 +1963,12 @@ module.exports = [
         token: "terra1a4x7t4w7a5hwqph0q0m5maqu45j99cpkgt82rllvrh4hc6g53k7spulsqj",
         icon : "https://i.ibb.co.com/g4BGpG9/IMG-0646.jpg",
         decimal: 6,
-    }
+    },
+     {
+        protocol: "KingCryptoKong",
+        name: "KingCryptoKong",
+        symbol: "KCK",
+        token: "terra1q2dzpk5afxdz54shdtujax92a2zqz0m8jn2xt9qepzp59gcuy9kszdm4q8",
+        icon : "https://assets.zyrosite.com/mk39Eyb2wZUB3Xwb/_tkmcgfe_400x400-m7VKoMaaJXhRJJ8Y.gif",
+        decimal: 6,
 ]
